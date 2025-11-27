@@ -5,3 +5,4 @@
 # Instructions
 
 -Place peas in pan
+-Add spring onions to the pan
