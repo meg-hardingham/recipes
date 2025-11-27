@@ -3,3 +3,5 @@
 - Spring Onions (£1.13)
 - Potato (59p)
 # Instructions
+
+-Place peas in pan
