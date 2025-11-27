@@ -1,5 +1,5 @@
 # Ingredients
-- Peas
-- Spring Onions
-- Potato
+- Peas (89p)
+- Spring Onions (£1.13)
+- Potato (59p)
 # Instructions
