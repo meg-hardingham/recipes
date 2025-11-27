@@ -2,6 +2,8 @@
 
 -Onions
 -Garlic
--Chestnut Mushrooms
+-Mushrooms
+-Herbs
+-Stock Cube
 
 #Instructions
