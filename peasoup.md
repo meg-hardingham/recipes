@@ -4,5 +4,6 @@
 - Potato (59p)
 # Instructions
 
+-Shell the peas
 -Place peas in pan
 -Add spring onions to the pan
